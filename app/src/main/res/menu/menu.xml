@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Mercedes">
+        <menu>
+            <item
+                android:id="@+id/m1"
+                android:title="Mercedes S1" />
+            <item
+                android:id="@+id/m2"
+                android:title="Mercedes S2" />
+            <item
+                android:id="@+id/m3"
+                android:title="Mercedes S3" />
+        </menu>
+    </item>
+    <item android:title="Audi">
+        <menu>
+            <item
+                android:id="@+id/a1"
+                android:title="Audi A1" />
+            <item
+                android:id="@+id/a2"
+                android:title="Audi A2" />
+            <item
+                android:id="@+id/a3"
+                android:title="Audi A3" />
+        </menu>
+    </item>
+</menu>
